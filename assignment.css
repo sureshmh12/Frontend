@@ -1,0 +1,60 @@
+.body{
+    background:linear-gradient(to right,#f7f4ad, #f2c1cc, #ee8dea );
+    display: flex;
+}
+.header{
+    background-color:rgb(245, 151, 148) ;
+}
+#firstnav{
+   display: inline-flex;
+   margin-left: 15%;
+}
+#firstnav b{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bolder;
+    padding: 15px;
+    font-size: 25px;
+}
+#menuicon{
+    position: absolute;
+    left: 540px;
+    top: 10px;
+}
+#two{
+    position: absolute;
+    right: 700px;
+}
+#heading{
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bolder;
+    letter-spacing: 5px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+#containt{
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    margin-top: 140px;
+    margin-left: 100px;
+}
+#burgerimg{
+    position: absolute;
+    margin-left: 771px;
+}
+#img{
+display: flex;
+margin-top: 441px;
+margin-left: 80px;
+}
+button{
+position: relative;
+width: 200px;
+padding: 15px 0;
+margin: 70px 23px;
+font-weight: bold;
+background-color: rgb(245, 151, 148) ;
+}

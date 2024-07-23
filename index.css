@@ -1,0 +1,32 @@
+.body{
+    height: 50%;
+    width: 50%;
+    background:linear-gradient(to right,#f7f4ad, #f2c1cc, #ee8dea );
+}
+#image1{
+    display: flex;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+#image2{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 10%;
+}
+#image3{
+    position: absolute;
+    margin-top: 5%;
+    margin-left:28% ;
+}
+.border{
+    position: absolute;
+    margin-top:10%;
+    margin-left:47%;
+    border: 1px solid  rgb(245, 151, 148);
+    background-color: rgb(245, 151, 148);
+    padding-right: 100px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
